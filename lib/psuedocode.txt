@@ -1,0 +1,7 @@
+
+-- So when the app starts we want to open the database or create it if it's not there.
+
+-- Then we want to get the entries form the database and add them to the current state.
+
+-- When we add or change a habit we have to be able to run insert or update commands on the database
+    - After running those the state has to be updated
