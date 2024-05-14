@@ -1,16 +1,16 @@
-# habit_builder
+# Habit Builder
 
-A new Flutter project.
+An app to help you build positive habits. The app can help you keep track of you goals,
+and give you the pleasure of checking good tasks off of a list each day.
+
+## About
+
+The app is pretty simple to use. You create a habit by clicking the add button,
+you give it a title, duration, and description. Then everyday you can check off the
+habits you have done and the app will keep track of your completion streaks, total times done
+and days between the last time done. So that you don't miss checking off any habits the streak only goes up
+once you press the "New Day" button in the top right.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Check the releases section for the most recent app apk file.
